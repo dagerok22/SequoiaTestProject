@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="recycler_view_item_movie_name_text_size">18sp</dimen>
+    <dimen name="recycler_view_item_movie_rating_text_size">24sp</dimen>
+    <dimen name="recycler_view_item_movie_localized_name_text_size">24sp</dimen>
+    <dimen name="recycler_view_item_year_text_size">24sp</dimen>
+    <dimen name="recycler_view_movie_details_year_text_size">18sp</dimen>
+    <dimen name="recycler_view_movie_details_name_text_size">17sp</dimen>
+    <dimen name="recycler_view_movie_details_rating_text_size">18sp</dimen>
+    <dimen name="recycler_view_movie_details_description_text_size">18sp</dimen>
+    <dimen name="movie_list_app_bar_title_size">18sp</dimen>
+    <dimen name="movie_detail_app_bar_title_size">18sp</dimen>
+</resources>

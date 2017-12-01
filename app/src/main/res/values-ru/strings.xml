@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SequoiaTestProject</string>
+    <string name="movie_details_year">Год: %d</string>
+    <string name="movie_details_rating">"Рейтинг: "</string>
+    <string name="movies_appbar_title">Фильмы</string>
+</resources>

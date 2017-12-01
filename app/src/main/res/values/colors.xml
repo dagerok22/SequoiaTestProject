@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="colorRating">#287615</color>
+    <color name="colorSubText">#999999</color>
+    <color name="colorActionBar">#FFFFFF</color>
+
+    <color name="recycler_view_movie_item_rating">@color/colorRating</color>
+    <color name="recycler_view_movie_name_color">@color/colorSubText</color>
+    <color name="recycler_view_movie_details_name_color">@color/colorSubText</color>
+    <color name="recycler_view_movie_details_rating_color">@color/colorRating</color>
+    <color name="movie_list_background_color">#FFFFFF</color>
+    <color name="movie_details_background">#FFFFFF</color>
+    <color name="movie_app_bar_title_color">#000</color>
+    <color name="movie_details_app_bar_title_color">#000</color>
+</resources>
